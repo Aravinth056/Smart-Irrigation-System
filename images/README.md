@@ -19,15 +19,6 @@ The folder can contain:
 - CAD model images
 - Field visit photographs
 
-## 📁 Recommended File Names
 
-```text
-complete-system.jpg
-hardware-setup.jpg
-sensor-testing.jpg
-lcd-display.jpg
-pump-on.jpg
-pump-off.jpg
-blynk-dashboard.jpg
 prototype-testing.jpg
 field-visit.jpg

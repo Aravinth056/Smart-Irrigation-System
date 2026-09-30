@@ -1,1 +1,25 @@
+# Working Principle
+
+## 📌 Overview
+
+The Smart Irrigation Monitoring System continuously monitors soil moisture, temperature, and humidity using sensors connected to the ESP32.
+
+Based on the soil moisture condition, the ESP32 controls the irrigation pump through a relay.
+
+---
+
+## ⚙️ Working Process
+
+```text
+Soil Moisture Sensor
+        ↓
+      ESP32
+        ↓
+Decision Based on Moisture
+        ↓
+   Relay Module
+        ↓
+    Water Pump
+        ↓
+    Irrigation
 

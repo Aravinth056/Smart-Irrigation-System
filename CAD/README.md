@@ -27,12 +27,4 @@ It helps to understand the positioning and arrangement of the major system compo
 
 ---
 
-## 📷 CAD Images
 
-The following CAD views can be added to this folder:
-
-```text
-isometric-view.png
-top-view.png
-front-view.png
-right-side-view.png
